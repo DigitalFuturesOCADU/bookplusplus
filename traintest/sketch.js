@@ -14,7 +14,7 @@ trainImage = loadImage("img/train.jpg");
 
 function setup()
 {
-createCanvas(imageWidth,imageHeight);
+createCanvas(windowWidth,windowHeight);
 image(trainImage,0,0);
 
 }
