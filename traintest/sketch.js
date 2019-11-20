@@ -22,6 +22,10 @@ image(trainImage,0,0);
 
 function draw() 
 {
-ellipse(20,20,100,100);
+fill(0);
+textSize(30);
+text(rotationZ,0,height/2);
+
+
 
 }
